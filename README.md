@@ -1,2 +1,2 @@
-# hello-world
-Just a simple repository.
+Here to enhance my coding skills.
+
